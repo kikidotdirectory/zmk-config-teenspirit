@@ -9,7 +9,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-keyboards-teenspirit
+    - name: zmk-keyboards-daertwing
       remote: kilipan
       revision: main
   self:
